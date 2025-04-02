@@ -1,0 +1,27 @@
+{
+  "name": "smartquizts",
+  "version": "1.0.0",
+  "description": "A dynamic and interactive quiz system built with TypeScript. This project lets users test their knowledge on various topics with multiple-choice questions, real-time scoring, and smooth navigation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohan-yadav19/SmartQuizTS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohan-yadav19/SmartQuizTS/issues"
+  },
+  "homepage": "https://github.com/rohan-yadav19/SmartQuizTS#readme",
+  "dependencies": {
+    "inquirer": "^12.5.0",
+    "nodemon": "^3.1.9"
+  },
+  "devDependencies": {
+    "@types/node": "^22.14.0"
+  }
+}
